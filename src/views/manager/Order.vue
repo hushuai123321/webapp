@@ -7,7 +7,7 @@
       <van-tab title="待接单"></van-tab> 
       <van-tab title="待服务"></van-tab> 
       <van-tab title="待确认"></van-tab> 
-      <van-tab title="已完成"></van-tab>
+      <van-tab title="已完成"></van-tab> 
     </van-tabs>
     <!-- 订单 -->
     <div>
